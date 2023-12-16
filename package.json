@@ -1,0 +1,21 @@
+{
+  "name": "koishi-plugin-assets-eaforum",
+  "description": "基于白嫖EA论坛图床的资源转存服务",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.16.0"
+  }
+}
